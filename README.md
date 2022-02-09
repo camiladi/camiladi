@@ -17,7 +17,6 @@
   <img align="center" alt="camila-jupyter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"/>
   <img align="center" alt="camila-ubuntu" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/>
   <img align="center" alt="camila-vscode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
-  <img align="left" alt="camila" height="140" width="140"  src="https://media.discordapp.net/attachments/799306531376070676/873017860270751784/download20210804223932.png?width=597&height=597"/>
 </div>
   
                                                             
