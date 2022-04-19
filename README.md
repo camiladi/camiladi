@@ -3,7 +3,7 @@
 - ⚕️ 🖥️ Sou graduada em Informática em Saúde pela Universidade Federal de São Paulo - UNIFESP/EPM
 - 🧪🧬 Mestrado em Bioquímica pela UNIFESP para Identificação de Inibidores Específicos para a Protease NS2b-NS3 do Flavivírus Zika
 - 🎲📊 Estudei Ciência de Dados pela Let's Code Academy
-- 👓👀 Atualmente sou Cientista de Dados e trabalho com Visão computacional e Machine Learning para rastreamento ocular!
+- 👓👀 Atualmente sou Cientista de Dados e trabalho com Visão computacional e Machine Learning para Eyetracking!
 
 <div>
   <a href="https://beacons.ai/camiladi">
