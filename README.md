@@ -10,7 +10,6 @@
 <div>
   <a href="https://beacons.ai/camiladi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiladi&theme=dark&count_private=true&show_icons=true&show_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladi&layout=compact&langs_count=10&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
