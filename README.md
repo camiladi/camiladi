@@ -5,10 +5,6 @@
 - 🎲📊 Estudei Ciência de Dados pela Let's Code Academy
 - 👓👀 Atualmente sou Cientista de Dados e trabalho com Visão computacional e Machine Learning para Eyetracking!
 
-<div>
-  <a href="https://beacons.ai/camiladi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiladi&theme=dark&count_private=true&show_icons=true&show_all_commits=true"/>
-</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="camila-bash" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
